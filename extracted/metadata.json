@@ -1,0 +1,6 @@
+{
+  "name": "GilaFruit",
+  "description": "Premium Iranian Fresh Fruit & Vegetable Exporter Portal and Admin Panel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
